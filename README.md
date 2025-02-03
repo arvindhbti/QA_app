@@ -1,4 +1,21 @@
-STEPS TO DIPLOY THE APPLICATION IN CLOUD
+**RAG Pipeline** -
+
+step1 - Extract data from source
+step2 - Chunks the documents
+step3 - Embeddings of chunks
+step4 - Indexing and storing in vector database
+
+**Retriever** -
+
+step1 - Extract relevant data from vector database
+
+**Generation** -
+
+step1 - Generate response using relevant text and user query
+
+
+
+**STEPS TO DIPLOY THE APPLICATION IN CLOUD**
 
 1)  Set Project ID Environment Variable
 
