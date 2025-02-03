@@ -1,0 +1,11 @@
+langchain_ollama
+langchain_community
+langchain
+langchain_core
+nltk
+tensorflow
+tf-keras
+torch
+nltk
+streamlit
+
