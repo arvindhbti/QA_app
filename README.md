@@ -35,7 +35,7 @@ step1 - Generate response using relevant text and user query
 
 8) See the app in action on web address
 
-**STEPS TO RUN THE APP** - 
+**STEPS TO RUN THE APP in local** - 
 1) Open command prompt
 2) Run as "streamlit run summ_app.py"
 3) It will be hosted in your local browser
